@@ -24,3 +24,10 @@ There's also a very helpful video tutorial explaining how to install and use the
 ---
 
 Have fun! 
+
+
+
+## Thank You!
+![GitHub Clones](https://img.shields.io/badge/20-clones-blue?style=flat-square&logo=github)
+
+This project has been cloned 20 times! I See This as an Absolute Win!
